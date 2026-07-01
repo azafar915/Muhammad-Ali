@@ -19,7 +19,6 @@ I am passionate about improving software quality and continuously learning new Q
 - STLC
 - Jira
 - Postman
-- Git
 - GitHub
 - MySQL
 
@@ -28,14 +27,13 @@ I am passionate about improving software quality and continuously learning new Q
 ## 📂 Current Focus
 
 - Learning API Testing
+- Learning Playwright
 - Improving SQL Skills
-- Building QA Portfolio
-- Preparing for QA Interviews
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Add your LinkedIn profile link)
-- Behance: (Add your Behance profile link)
-- Email: your-email@example.com
+- LinkedIn: www.linkedin.com/in/muhammad-ali-bb2a37260
+- Behance: https://be.net/cb5d9846
+- Email: ali.zafar915@gmail.com
